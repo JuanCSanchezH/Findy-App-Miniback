@@ -67,7 +67,7 @@
       {
         "id": 1,
         "userId": 1,
-        "tipo": "foto, video, album o tag",
+        "tipo": "foto",
         "archivo": "",
         "likes": 0,
         "comentarios": [
