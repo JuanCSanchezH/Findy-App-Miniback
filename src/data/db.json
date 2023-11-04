@@ -1,0 +1,81 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "nombre": "Alberto Salazar",
+        "correo": "as@gmail.com",
+        "contrasena": "123",
+        "avatar": "",
+        "descripcion": "Hola, soy Alberto",
+        "seguidores": [
+            {
+                "seguidorId": 2, 
+                "nombre": "Sandra Aguilar"
+            }
+        ],
+        "seguidos": [
+            {
+                "seguidoId": 3, 
+                "nombre": "Ana López"
+            }
+        ]
+      },
+      {
+        "id": 2,
+        "nombre": "Sandra Aguilar",
+        "correo": "sa@gmail.com",
+        "contrasena": "321",
+        "avatar": "",
+        "descripcion": "Hola, soy Sandra",
+        "seguidores": [
+            {
+                "seguidorId": 3, 
+                "nombre": "Ana López"
+            }
+        ],
+        "seguidos": [
+            {
+                "seguidoId": 1, 
+                "nombre": "Alberto Salazar"
+            }
+        ],
+        "posts": []
+      },
+      {
+        "id": 3,
+        "nombre": "Ana López",
+        "correo": "al@gmail.com",
+        "contrasena": "1234",
+        "avatar": "",
+        "descripcion": "Hola, soy Ana",
+        "seguidores": [
+            {
+                "seguidorId": 1, 
+                "nombre": "Alberto Salazar"
+            }
+        ],
+        "seguidos": [
+            {
+                "seguidoId": 2, 
+                "nombre": "Sandra Aguilar"
+            }
+        ],
+        "posts": []
+      }
+    ],
+    "posts": [
+      {
+        "id": 1,
+        "userId": 1,
+        "tipo": "foto, video, album o tag",
+        "archivo": "",
+        "likes": 0,
+        "comentarios": [
+            {
+                "userId": 2, 
+                "texto": "¡Genial!"
+            }
+        ]
+      }
+    ]
+  }
