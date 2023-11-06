@@ -5,7 +5,7 @@
         "nombre": "Alberto Salazar",
         "correo": "as@gmail.com",
         "contrasena": "123",
-        "avatar": "",
+        "avatar": "https://res.cloudinary.com/ddsed1j6u/image/upload/v1699232578/vista-frontal-hombre-sonriente-posando-cv_ptueqk.jpg",
         "descripcion": "Hola, soy Alberto",
         "seguidores": [
             {
@@ -68,7 +68,7 @@
         "id": 1,
         "userId": 1,
         "tipo": "foto",
-        "archivo": "",
+        "archivo": "https://res.cloudinary.com/ddsed1j6u/image/upload/v1699232199/FindyApp/pxtg4ntxh7bvmgga6ciw.png",
         "likes": 0,
         "comentarios": [
             {
