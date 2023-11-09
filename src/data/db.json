@@ -265,6 +265,7 @@
       "userId": 1,
       "tipo": "foto",
       "archivo": "https://res.cloudinary.com/ddsed1j6u/image/upload/v1699232199/FindyApp/pxtg4ntxh7bvmgga6ciw.png",
+      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptates, maiores nesciunt quaerat consequuntur voluptatem ipsa ratione illum, enim dolorum fugiat minus quia rerum quod autem deleniti tempore deserunt non sit. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt beatae, odit nostrum veritatis quasi nemo magnam omnis accusantium itaque tempora illum animi? Inventore consequuntur, quis impedit sed ducimus reiciendis distinctio.",
       "likes": [
         {
             "id": 1
