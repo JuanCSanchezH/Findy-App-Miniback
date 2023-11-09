@@ -265,7 +265,11 @@
       "userId": 1,
       "tipo": "foto",
       "archivo": "https://res.cloudinary.com/ddsed1j6u/image/upload/v1699232199/FindyApp/pxtg4ntxh7bvmgga6ciw.png",
-      "likes": 0,
+      "likes": [
+        {
+            "id": 1
+        }
+      ],
       "comentarios": [
         {
           "userId": 2,
