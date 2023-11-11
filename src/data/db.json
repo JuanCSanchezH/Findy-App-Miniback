@@ -264,8 +264,7 @@
       "id": 1,
       "userId": 1,
       "tipo": "foto",
-      "archivo": "https://res.cloudinary.com/ddsed1j6u/image/upload/v1699232199/FindyApp/pxtg4ntxh7bvmgga6ciw.png",
-      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptates, maiores nesciunt quaerat consequuntur voluptatem ipsa ratione illum, enim dolorum fugiat minus quia rerum quod autem deleniti tempore deserunt non sit. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt beatae, odit nostrum veritatis quasi nemo magnam omnis accusantium itaque tempora illum animi? Inventore consequuntur, quis impedit sed ducimus reiciendis distinctio.",
+      "archivo": "https://res.cloudinary.com/dsgfgsjud/image/upload/v1699237659/FyndyApp/1/grsbixr11qh6vewyp01t.jpg",
       "likes": [
         {
             "id": 1
@@ -274,6 +273,260 @@
       "comentarios": [
         {
           "userId": 2,
+          "texto": "¡Genial!"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "tipo": "foto",
+      "archivo": "https://res.cloudinary.com/dsgfgsjud/image/upload/v1699237659/FyndyApp/1/hnz9gshmc05wsatpaolv.jpg",
+      "likes": [
+        {
+            "id": 1
+        }
+      ],
+      "comentarios": [
+        {
+          "userId": 2,
+          "texto": "¡Genial!"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "tipo": "foto",
+      "archivo": "https://res.cloudinary.com/dsgfgsjud/image/upload/v1699237659/FyndyApp/1/icxakx2dg2i47tiyh4kb.jpg",
+      "likes": [
+        {
+            "id": 1
+        }
+      ],
+      "comentarios": [
+        {
+          "userId": 2,
+          "texto": "¡Genial!"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "tipo": "foto",
+      "archivo": "https://res.cloudinary.com/dsgfgsjud/image/upload/v1699237659/FyndyApp/1/k1wubed14ed5kf7afotp.jpg",
+      "likes": [
+        {
+            "id": 1
+        }
+      ],
+      "comentarios": [
+        {
+          "userId": 2,
+          "texto": "¡Genial!"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "userId": 1,
+      "tipo": "foto",
+      "archivo": "https://res.cloudinary.com/dsgfgsjud/image/upload/v1699237659/FyndyApp/1/y4dm6sibplwrbntj9n4s.jpg",
+      "likes": [
+        {
+            "id": 1
+        }
+      ],
+      "comentarios": [
+        {
+          "userId": 2,
+          "texto": "¡Genial!"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "userId": 1,
+      "tipo": "foto",
+      "archivo": "https://res.cloudinary.com/dsgfgsjud/image/upload/v1699237659/FyndyApp/1/sssndwuc0jnt2cc08vke.jpg",
+      "likes": [
+        {
+            "id": 1
+        }
+      ],
+      "comentarios": [
+        {
+          "userId": 2,
+          "texto": "¡Genial!"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "userId": 2,
+      "tipo": "foto",
+      "archivo": "https://res.cloudinary.com/dsgfgsjud/image/upload/v1699237709/FyndyApp/2/d3vmw32vzt1b4jfcrens.jpg",
+      "likes": [
+        {
+            "id": 1
+        }
+      ],
+      "comentarios": [
+        {
+          "userId": 2,
+          "texto": "¡Genial!"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "userId": 2,
+      "archivo": "https://res.cloudinary.com/dsgfgsjud/image/upload/v1699237709/FyndyApp/2/ysazswokfilecifzwaj2.jpg",
+      "likes": [
+        {
+            "id": 1
+        }
+      ],
+      "comentarios": [
+        {
+          "userId": 2,
+          "texto": "¡Genial!"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "userId": 2,
+      "tipo": "foto",
+      "archivo": "https://res.cloudinary.com/dsgfgsjud/image/upload/v1699237709/FyndyApp/2/widjk0yicldsl7cezjyz.jpg",
+      "likes": [
+        {
+            "id": 1
+        }
+      ],
+      "comentarios": [
+        {
+          "userId": 2,
+          "texto": "¡Genial!"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "userId": 2,
+      "tipo": "foto",
+      "archivo": "https://res.cloudinary.com/dsgfgsjud/image/upload/v1699237709/FyndyApp/2/ap2pkcq2zw031vg3zszr.jpg",
+      "likes": [
+        {
+            "id": 1
+        }
+      ],
+      "comentarios": [
+        {
+          "userId": 1,
+          "texto": "¡Genial!"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "userId": 3,
+      "tipo": "foto",
+      "archivo": "https://res.cloudinary.com/dsgfgsjud/image/upload/v1699237740/FyndyApp/3/ftzmcjutlcyvopgeivwj.jpg",
+      "likes": [
+        {
+            "id": 1
+        }
+      ],
+      "comentarios": [
+        {
+          "userId": 1,
+          "texto": "¡Genial!"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "userId": 3,
+      "tipo": "foto",
+      "archivo": "https://res.cloudinary.com/dsgfgsjud/image/upload/v1699237740/FyndyApp/3/inhkunxz5e8vw0yj05ec.jpg",
+      "likes": [
+        {
+            "id": 1
+        }
+      ],
+      "comentarios": [
+        {
+          "userId": 1,
+          "texto": "¡Genial!"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "userId": 3,
+      "tipo": "foto",
+      "archivo": "https://res.cloudinary.com/dsgfgsjud/image/upload/v1699237740/FyndyApp/3/uolkhrmehpf9eszbn2c8.jpg",
+      "likes": [
+        {
+            "id": 1
+        }
+      ],
+      "comentarios": [
+        {
+          "userId": 1,
+          "texto": "¡Genial!"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "userId": 3,
+      "tipo": "video",
+      "archivo": "https://youtu.be/1xGzqu5LRRw",
+      "likes": [
+        {
+            "id": 1
+        }
+      ],
+      "comentarios": [
+        {
+          "userId": 1,
+          "texto": "¡Genial!"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "userId": 3,
+      "tipo": "album",
+      "archivo": "https://res.cloudinary.com/dsgfgsjud/image/upload/v1699237740/FyndyApp/3/ftzmcjutlcyvopgeivwj.jpg",
+      "likes": [
+        {
+            "id": 1
+        }
+      ],
+      "comentarios": [
+        {
+          "userId": 1,
+          "texto": "¡Genial!"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "userId": 3,
+      "tipo": "tag",
+      "archivo": "https://res.cloudinary.com/dsgfgsjud/image/upload/v1699237740/FyndyApp/3/inhkunxz5e8vw0yj05ec.jpg",
+      "likes": [
+        {
+            "id": 1
+        }
+      ],
+      "comentarios": [
+        {
+          "userId": 1,
           "texto": "¡Genial!"
         }
       ]
