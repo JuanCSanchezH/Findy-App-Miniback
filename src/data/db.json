@@ -99,7 +99,7 @@
       "nombre": "Sandra Aguilar",
       "correo": "sa@gmail.com",
       "contrasena": "321",
-      "avatar": "",
+      "avatar": "https://res.cloudinary.com/ddsed1j6u/image/upload/v1699752245/4fd9ebe2f1eb2a8e537580d05a45db32_l9d0fn.jpg",
       "descripcion": "Hola, soy Sandra",
       "seguidores": [
         {
@@ -169,7 +169,7 @@
       "nombre": "Ana López",
       "correo": "al@gmail.com",
       "contrasena": "1234",
-      "avatar": "",
+      "avatar": "https://res.cloudinary.com/ddsed1j6u/image/upload/v1699752245/Buho_nival_05_boggst.jpg",
       "descripcion": "Hola, soy Ana",
       "seguidores": [
         {
@@ -265,6 +265,7 @@
       "userId": 1,
       "tipo": "foto",
       "archivo": "https://res.cloudinary.com/dsgfgsjud/image/upload/v1699237659/FyndyApp/1/grsbixr11qh6vewyp01t.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti esse voluptas ipsam impedit assumenda aperiam rerum ullam quod enim obcaecati. Dignissimos quas soluta sunt nesciunt temporibus placeat consectetur eveniet cupiditate?",
       "likes": [
         {
             "id": 1
@@ -282,6 +283,7 @@
       "userId": 1,
       "tipo": "foto",
       "archivo": "https://res.cloudinary.com/dsgfgsjud/image/upload/v1699237659/FyndyApp/1/hnz9gshmc05wsatpaolv.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti esse voluptas ipsam impedit assumenda aperiam rerum ullam quod enim obcaecati. Dignissimos quas soluta sunt nesciunt temporibus placeat consectetur eveniet cupiditate?",
       "likes": [
         {
             "id": 1
@@ -299,6 +301,7 @@
       "userId": 1,
       "tipo": "foto",
       "archivo": "https://res.cloudinary.com/dsgfgsjud/image/upload/v1699237659/FyndyApp/1/icxakx2dg2i47tiyh4kb.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti esse voluptas ipsam impedit assumenda aperiam rerum ullam quod enim obcaecati. Dignissimos quas soluta sunt nesciunt temporibus placeat consectetur eveniet cupiditate?",
       "likes": [
         {
             "id": 1
@@ -316,6 +319,7 @@
       "userId": 1,
       "tipo": "foto",
       "archivo": "https://res.cloudinary.com/dsgfgsjud/image/upload/v1699237659/FyndyApp/1/k1wubed14ed5kf7afotp.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti esse voluptas ipsam impedit assumenda aperiam rerum ullam quod enim obcaecati. Dignissimos quas soluta sunt nesciunt temporibus placeat consectetur eveniet cupiditate?",
       "likes": [
         {
             "id": 1
@@ -333,6 +337,7 @@
       "userId": 1,
       "tipo": "foto",
       "archivo": "https://res.cloudinary.com/dsgfgsjud/image/upload/v1699237659/FyndyApp/1/y4dm6sibplwrbntj9n4s.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti esse voluptas ipsam impedit assumenda aperiam rerum ullam quod enim obcaecati. Dignissimos quas soluta sunt nesciunt temporibus placeat consectetur eveniet cupiditate?",
       "likes": [
         {
             "id": 1
@@ -350,6 +355,7 @@
       "userId": 1,
       "tipo": "foto",
       "archivo": "https://res.cloudinary.com/dsgfgsjud/image/upload/v1699237659/FyndyApp/1/sssndwuc0jnt2cc08vke.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti esse voluptas ipsam impedit assumenda aperiam rerum ullam quod enim obcaecati. Dignissimos quas soluta sunt nesciunt temporibus placeat consectetur eveniet cupiditate?",
       "likes": [
         {
             "id": 1
@@ -367,6 +373,7 @@
       "userId": 2,
       "tipo": "foto",
       "archivo": "https://res.cloudinary.com/dsgfgsjud/image/upload/v1699237709/FyndyApp/2/d3vmw32vzt1b4jfcrens.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti esse voluptas ipsam impedit assumenda aperiam rerum ullam quod enim obcaecati. Dignissimos quas soluta sunt nesciunt temporibus placeat consectetur eveniet cupiditate?",
       "likes": [
         {
             "id": 1
@@ -383,6 +390,7 @@
       "id": 8,
       "userId": 2,
       "archivo": "https://res.cloudinary.com/dsgfgsjud/image/upload/v1699237709/FyndyApp/2/ysazswokfilecifzwaj2.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti esse voluptas ipsam impedit assumenda aperiam rerum ullam quod enim obcaecati. Dignissimos quas soluta sunt nesciunt temporibus placeat consectetur eveniet cupiditate?",
       "likes": [
         {
             "id": 1
@@ -400,6 +408,7 @@
       "userId": 2,
       "tipo": "foto",
       "archivo": "https://res.cloudinary.com/dsgfgsjud/image/upload/v1699237709/FyndyApp/2/widjk0yicldsl7cezjyz.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti esse voluptas ipsam impedit assumenda aperiam rerum ullam quod enim obcaecati. Dignissimos quas soluta sunt nesciunt temporibus placeat consectetur eveniet cupiditate?",
       "likes": [
         {
             "id": 1
@@ -417,6 +426,7 @@
       "userId": 2,
       "tipo": "foto",
       "archivo": "https://res.cloudinary.com/dsgfgsjud/image/upload/v1699237709/FyndyApp/2/ap2pkcq2zw031vg3zszr.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti esse voluptas ipsam impedit assumenda aperiam rerum ullam quod enim obcaecati. Dignissimos quas soluta sunt nesciunt temporibus placeat consectetur eveniet cupiditate?",
       "likes": [
         {
             "id": 1
@@ -434,6 +444,7 @@
       "userId": 3,
       "tipo": "foto",
       "archivo": "https://res.cloudinary.com/dsgfgsjud/image/upload/v1699237740/FyndyApp/3/ftzmcjutlcyvopgeivwj.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti esse voluptas ipsam impedit assumenda aperiam rerum ullam quod enim obcaecati. Dignissimos quas soluta sunt nesciunt temporibus placeat consectetur eveniet cupiditate?",
       "likes": [
         {
             "id": 1
@@ -451,6 +462,7 @@
       "userId": 3,
       "tipo": "foto",
       "archivo": "https://res.cloudinary.com/dsgfgsjud/image/upload/v1699237740/FyndyApp/3/inhkunxz5e8vw0yj05ec.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti esse voluptas ipsam impedit assumenda aperiam rerum ullam quod enim obcaecati. Dignissimos quas soluta sunt nesciunt temporibus placeat consectetur eveniet cupiditate?",
       "likes": [
         {
             "id": 1
@@ -468,6 +480,7 @@
       "userId": 3,
       "tipo": "foto",
       "archivo": "https://res.cloudinary.com/dsgfgsjud/image/upload/v1699237740/FyndyApp/3/uolkhrmehpf9eszbn2c8.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti esse voluptas ipsam impedit assumenda aperiam rerum ullam quod enim obcaecati. Dignissimos quas soluta sunt nesciunt temporibus placeat consectetur eveniet cupiditate?",
       "likes": [
         {
             "id": 1
@@ -485,6 +498,7 @@
       "userId": 3,
       "tipo": "video",
       "archivo": "https://youtu.be/1xGzqu5LRRw",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti esse voluptas ipsam impedit assumenda aperiam rerum ullam quod enim obcaecati. Dignissimos quas soluta sunt nesciunt temporibus placeat consectetur eveniet cupiditate?",
       "likes": [
         {
             "id": 1
@@ -502,6 +516,7 @@
       "userId": 3,
       "tipo": "album",
       "archivo": "https://res.cloudinary.com/dsgfgsjud/image/upload/v1699237740/FyndyApp/3/ftzmcjutlcyvopgeivwj.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti esse voluptas ipsam impedit assumenda aperiam rerum ullam quod enim obcaecati. Dignissimos quas soluta sunt nesciunt temporibus placeat consectetur eveniet cupiditate?",
       "likes": [
         {
             "id": 1
@@ -519,6 +534,7 @@
       "userId": 3,
       "tipo": "tag",
       "archivo": "https://res.cloudinary.com/dsgfgsjud/image/upload/v1699237740/FyndyApp/3/inhkunxz5e8vw0yj05ec.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti esse voluptas ipsam impedit assumenda aperiam rerum ullam quod enim obcaecati. Dignissimos quas soluta sunt nesciunt temporibus placeat consectetur eveniet cupiditate?",
       "likes": [
         {
             "id": 1
